@@ -29,7 +29,14 @@ public class Lesson4 {
         twoDimensionalArray(arr4);
 
         // 5.
-        System.out.println("Filled array:  " + Arrays.toString(getArray(10, 13)));
+        int arr5Len = random.nextInt(5,10);
+        int arr5Values = random.nextInt(5,10);
+        System.out.printf(
+                "Filled array with len: %d and values: %d: %s\n",
+                arr5Len,
+                arr5Values,
+                Arrays.toString(getArray(arr5Len, arr5Values))
+        );
 
         // 6.
         int[] arr6 = new int[random.nextInt(10, 20)];
@@ -157,7 +164,7 @@ public class Lesson4 {
         }
 
         System.out.println(Arrays.toString(arr));
-        System.out.printf("Min: %d, Max: %d", min, max);
+        System.out.printf("Min: %d, Max: %d\n", min, max);
     }
 
     /*
