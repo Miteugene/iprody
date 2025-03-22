@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class HomeWorkApp {
+public class Lesson3 {
     public static void main(String[] args) {
         Random random = new Random();
 
