@@ -1,4 +1,4 @@
-package lesson7;
+package org.example.lesson7;
 
 /**
  * Создать класс "Employee" с полями: ФИО, должность, email, телефон, возраст.

@@ -1,4 +1,4 @@
-package lesson5.third;
+package org.example.lesson5.third;
 
 public class MyLinkedList {
     private MyLinkedListObject firstObject = null;

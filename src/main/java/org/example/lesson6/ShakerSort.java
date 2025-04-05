@@ -1,4 +1,4 @@
-package lesson6;
+package org.example.lesson6;
 
 public class ShakerSort {
     public static int hande(int[] arr) {
