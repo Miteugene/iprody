@@ -1,4 +1,4 @@
-package lesson7.samename2;
+package org.example.lesson7.samename1;
 
 /**
  * Создать два класса с одинаковым именем SameName.

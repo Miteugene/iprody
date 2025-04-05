@@ -1,4 +1,4 @@
-package lesson7;
+package org.example.lesson7;
 
 /**
  * Задание под звездочкой

@@ -1,4 +1,4 @@
-package lesson6;
+package org.example.lesson6;
 
 public class ArrayMerge {
     public static int[] hande(int[] arr1, int[] arr2) {

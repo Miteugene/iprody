@@ -1,7 +1,7 @@
-package lesson5;
+package org.example.lesson5;
 
-import lesson5.first.MyArrayList;
-import lesson5.third.MyLinkedList;
+import org.example.lesson5.first.MyArrayList;
+import org.example.lesson5.third.MyLinkedList;
 
 import java.util.Random;
 

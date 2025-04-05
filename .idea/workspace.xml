@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83dafda5-6bcd-4f03-a889-f103d71d48c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/Lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson4/Lesson4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson5/Lesson5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson5/first/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson5/third/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson5/third/MyLinkedListObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/ArrayMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/Lesson6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/ShakerSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/samename1/SameName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/samename2/SameName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson8/Lesson8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson8/StringWorks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson8/WordGuesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iprody-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson5/Lesson5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson5/first/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson5/third/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson5/third/MyLinkedListObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/ArrayMerge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/Lesson6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/ShakerSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson7/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson7/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson7/samename1/SameName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson7/samename2/SameName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson8/Lesson8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson8/StringWorks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson8/WordGuesser.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vIrSwmSeB0pydfvb98kZyQEPEK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "fix/recreate-project",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/iprody/iprody/src/main/java/org/example/lesson4"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\iprody\iprody\src\main\java\org\example\lesson4" />
+      <recent name="C:\iprody\iprody\src\main\java\org\example\lesson3" />
+      <recent name="C:\iprody\iprody\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83dafda5-6bcd-4f03-a889-f103d71d48c6" name="Changes" comment="" />
+      <created>1743843434837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743843434837</updated>
+    </task>
+    <servers />
+  </component>
+</project>

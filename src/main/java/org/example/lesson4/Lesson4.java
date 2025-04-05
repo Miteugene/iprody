@@ -1,3 +1,5 @@
+package org.example.lesson4;
+
 import java.util.Arrays;
 import java.util.Random;
 
