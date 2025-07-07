@@ -1,17 +1,17 @@
 Execution: 
 	testClass: class org.example.lesson24.program.test.CalculatorTest
-	startedAt: 2025-05-28 18:33:54
-	endedAt: 2025-05-28 18:33:54
+	startedAt: 2025-07-03 14:59:37
+	endedAt: 2025-07-03 14:59:38
 	test results: 
-                      testStringContains |  assertResult=Input "some other valu..." contains string "other"
-                      testSumOfNegatives |  assertResult=expected: -9, actual: -9
-                      testSumOfPositives |  assertResult=expected: 5, actual: 5
-                         testSumWithZero |  assertResult=expected: 4, actual: 4
-                 testSequenceOfOperation |  assertResult=EXECUTED
-                 testStringContainsWrong |  assertResult=Input "some other valu..." doesn't contains string "others"
-     testArrayContainsNotStrictModeWrong |  assertResult=Input array java.util.strea... doesn't contains subarray java.util.strea..., strict order mode: false
-          testArrayContainsNotStrictMode |  assertResult=Input array java.util.strea... contains subarray java.util.strea..., strict order mode: false
-             testArrayContainsStrictMode |  assertResult=Input array java.util.strea... contains subarray java.util.strea..., strict order mode: true
             testSumOfPositiveAndNegative |  assertResult=expected: -1, actual: -1
        testSumOfPositiveAndNegativeWrong |  assertResult=expected: -1, actual: -2
+                      testSumOfPositives |  assertResult=expected: 5, actual: 5
+                         testSumWithZero |  assertResult=expected: 4, actual: 4
+                      testSumOfNegatives |  assertResult=expected: -9, actual: -9
+                 testSequenceOfOperation |  assertResult=EXECUTED
+                      testStringContains |  assertResult=Input "some other valu..." contains string "other"
+                 testStringContainsWrong |  assertResult=Input "some other valu..." doesn't contains string "others"
+             testArrayContainsStrictMode |  assertResult=Input array java.util.strea... contains subarray java.util.strea..., strict order mode: true
         testArrayContainsStrictModeWrong |  assertResult=Input array java.util.strea... doesn't contains subarray java.util.strea..., strict order mode: true
+          testArrayContainsNotStrictMode |  assertResult=Input array java.util.strea... contains subarray java.util.strea..., strict order mode: false
+     testArrayContainsNotStrictModeWrong |  assertResult=Input array java.util.strea... doesn't contains subarray java.util.strea..., strict order mode: false
